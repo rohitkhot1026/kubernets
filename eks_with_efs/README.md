@@ -1,6 +1,8 @@
   **INSTALL aws efs-ecs driver** 
   
   
+  **Install EKS package on ubuntu **
+  
   **create EKS cluster**
 
      cat cluster.yaml
